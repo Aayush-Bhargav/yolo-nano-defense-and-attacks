@@ -1,6 +1,6 @@
 # Target Architecture: YOLO-OBB Nano
 
-This directory contains the pre-trained weights and configuration details for the target model evaluated throughout this repository. 
+This file contains the pre-trained weights and configuration details for the target model evaluated throughout this repository. 
 
 ### The Model: `yolo26n-obb.pt`
 The primary target for all adversarial experiments in this project is the **Nano variant** of the YOLO (You Only Look Once) architecture, specifically optimized for **Oriented Bounding Boxes (OBB)**. 

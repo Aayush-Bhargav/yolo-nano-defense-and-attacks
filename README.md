@@ -23,6 +23,7 @@ yolo-adversarial-robustness/
 │   ├── Document.md                # Defense documentation and analysis                     
 |   ├── Plots/                     # Evaluation visualizations (Accuracy, mAP, PR curves)
 │   └── pgd-defense.ipynb          # PGD defense implementation and evaluation
+|   └── plot_generation_code.ipynb # Code for the generation of the plots
 │   └── best.pt                    # Model trained for 85 epochs
 |
 ├── QUANTIZED ATTACKS/             # Attacks on quantized (edge-optimized) models
